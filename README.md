@@ -15,9 +15,13 @@ A dynamic Professional and interactive dashboard built to analyze e-commerce sal
    
 The dashboard was built using the following tools and technologies:
 📊 Power BI Desktop – Main data visualization platform used for report creation.
+
 🔄 Power Query – Data transformation and cleaning layer for reshaping raw sales data.
+
 📐 DAX (Data Analysis Expressions) – Used for calculated measures, KPIs, and trend analysis.
+
 🔗 Data Modeling – Relationships established among tables (products, sales, categories, customers) to enable meaningful insights.
+
 🖼️ File Format – .pbix for development and .png for dashboard previews.
 
 
