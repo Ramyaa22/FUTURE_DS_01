@@ -1,16 +1,16 @@
 # FUTURE_DS_01
-1. Project Title
+1.Project Title
    
 E-commerce Sales Analytics Dashboard | Power BI
 
 
-2. Description/Purpose
+2.Description/Purpose
 
 The Super Store Sales Dashboard is a visually engaging and analytical Power BI Report
 A dynamic Professional and interactive dashboard built to analyze e-commerce sales data, focusing on identifying best-selling products, sales trends, and high-revenue categories. The goal is to provide data-driven insights that support smarter business decisions.
 
 
-3. Tech Stack
+3.Tech Stack
    
 The dashboard was built using the following tools and technologies:
 📊 Power BI Desktop – Main data visualization platform used for report creation.
@@ -20,7 +20,7 @@ The dashboard was built using the following tools and technologies:
 🖼️ File Format – .pbix for development and .png for dashboard previews.
 
 
-4. Key Outcomes
+4.Key Outcomes
 
 Analyzed sales performance trends across time periods.
 Delivered a business storytelling dashboard to support decision-making.
