@@ -14,6 +14,7 @@ A dynamic Professional and interactive dashboard built to analyze e-commerce sal
 3.Tech Stack
    
 The dashboard was built using the following tools and technologies:
+
 📊 Power BI Desktop – Main data visualization platform used for report creation.
 
 🔄 Power Query – Data transformation and cleaning layer for reshaping raw sales data.
@@ -27,13 +28,16 @@ The dashboard was built using the following tools and technologies:
 
 4.Key Outcomes
 
-Analyzed sales performance trends across time periods.
-Delivered a business storytelling dashboard to support decision-making.
+* Analyzed sales performance trends across time periods.
+* Delivered a business storytelling dashboard to support decision-making.
 
 
 Key questions such as:
+
 What are the best-selling products?
+
 When do sales peak during the year?
+
 Which categories or regions bring the most revenue?
 
 Demos
