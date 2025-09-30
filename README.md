@@ -34,6 +34,6 @@ Which categories or regions bring the most revenue?
 
 Demos
 The Dashboard looks like - 
-Dashboard preview
+
 (https://github.com/Ramyaa22/FUTURE_DS_01/blob/main/SuperStoreSalesDashboard-1.png)
 (https://github.com/Ramyaa22/FUTURE_DS_01/blob/main/SuperStoreSalesDashboard-2.png)
